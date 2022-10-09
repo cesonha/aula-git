@@ -16,7 +16,7 @@ As mudanças adicionadas ao ambiente de staging são adicionadas à uma nova ver
 
 Para commitar os arquivos que estão no atual ambiente de staging, usamos o comando `git commit -m "mensagem descrevendo as mudanças"`
 
-Learning shortcuts: como podemos, em apenas um comando, adicionar todos arquivos modificados ao ambiente de staging e já commitar essas mudanças?
+Learning shortcuts: como podemos, em apenas um comando, adicionar todos arquivos modificados ao ambiente de staging e já commitar essas mudanças?  `git commit -am "mensagem do commit"`
 
 ## Status
 
