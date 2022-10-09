@@ -41,6 +41,8 @@ Learning shortcuts: como podemos, em apenas um comando, criar um novo branch e j
 ### Mixed
 
 ## Merge
+d
+dsfsfds
 
 ## Rebase
 
