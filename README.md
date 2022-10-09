@@ -42,6 +42,8 @@ Learning shortcuts: como podemos, em apenas um comando, criar um novo branch e j
 ## Merge
 
 ## Rebase
-]
+
 
 Vinicius Riso
+
+veve
